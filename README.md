@@ -29,8 +29,8 @@ It is a card matching game. It includes sixteen cards.
 The reset button doesnot work properly. In future, I will fix that.
 
 ## Future Planning
-* I want to add back ground animation to my game, so that it looks for attractive.
-* I wand to set time out property, so that users will have limited time to finish this game.
+* I want to add back ground animation to my game, so that it looks more attractive.
+* I want to set time out property, so that users will have limited time to finish this game.
 
 ## Author
  Satveer Kaur Dhillon
