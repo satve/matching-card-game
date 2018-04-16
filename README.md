@@ -14,7 +14,7 @@ It is a card matching game. It includes sixteen cards.
 <img src="Screenshot (3).png" width = "300px">
 
 ## How To Play
-The game board consists of sixteen cards. The grid is made up of eight different pairs of cards, each card has a symbol. User need to flip cards for check the symbols. After flipping cards if two cards has same symbol, then they remained open and their color changes to green by default. If two cards are not same, they flip again and hide its symbol. After every two clicks , the moves button add number numbers to moves counter. when all cards are matched, you can see pop up alert at the top, that means you won the match. At the end if you want to restart the game, you can press reset button.
+The game board consists of sixteen cards. The grid is made up of eight different pairs of cards, each card has a symbol. User need to flip cards for check the symbols. After flipping cards if two cards has same symbol, then they remained open and their color changes to green. If two cards are not same, they flip again and hide its symbol. After every two clicks , the moves button add number numbers to moves counter. when all cards are matched, you can see pop up alert at the top, that means you won the match. At the end if you want to restart the game, you can press reset button.
 
 ## Issue
 The reset button doesnot work properly. In future, I will fix that.
