@@ -5,6 +5,8 @@ It is a card matching game. It includes sixteen cards.
 
 ## Parts Of Game
 * It has moves button. It counts the moves when you click on cards.
+<img src="Screenshot (2).png" width = "300px">
+
 * It counts the stars, when your flipping cards are match.
 * It has a reset button, by pressing that you can restart your game.
 
