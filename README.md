@@ -9,6 +9,7 @@ It is a card matching game. It includes sixteen cards.
 
 * It counts the stars, when your flipping cards are match.
 * It has a pop-up alert. when your all cards matched. you will get a alert near reset button.
+<img src="Screenshot (3).png" width = "300px">
 
 ## How To Play
 The game board consists of sixteen cards. The grid is made up of eight different pairs of cards, each card has a symbol. User need to flip cards for check the symbols. AFter flipping cards if two cards has same symbol, then they remained open and their color changes to green by default. After every two clicks , the moves button add number numbers to moves counter. when all cards are matched, you can see pop up alert at the top, that means you won the match. At the end if you want to restart the game,  you can press reset button.
