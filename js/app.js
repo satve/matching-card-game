@@ -65,7 +65,7 @@ function endGame() {
 
 // add event listener to restart game....
 
-//const reset = document.querySelector('.restart');
-   //   reset.addEventListener("click", function(event) {
-      
-//});
+const reset = document.querySelector('.restart');
+     reset.addEventListener("click", function(event) {
+      window.location.reload();
+});
