@@ -3,17 +3,17 @@
 ## The Matching Card Game
 It is a card matching game. It includes sixteen cards. 
 
-<img src="Screenshot (1).png" width = "300px">
+<img src="Screenshot (1).png" width = "1000px">
 
 ## Parts Of Game
 * It has moves button. It counts the moves when you click on cards.
-<img src="Screenshot (2).png" width = "300px">
+<img src="Screenshot (2).png" width = "1000px">
 
 * It counts the stars, when your flipping cards are match.  
 
 
 * It has a pop-up alert. when your all cards matched. you will get a alert near reset button.
-<img src="Screenshot (3).png" width = "300px">
+<img src="Screenshot (3).png" width = "1000px">
 
 ## How To Play
 1. The game board consists of sixteen cards. It is made up of eight different pairs of cards, each card has a symbol.
